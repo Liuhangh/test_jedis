@@ -11,6 +11,7 @@ public class TestJedisApplication {
         System.out.println("运行成功！");
         System.out.println("hello git3！");
         System.out.println("hello git4！");
+        System.out.println("hot-fix test！");
         System.out.println("master test");
     }
 
